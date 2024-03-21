@@ -33,4 +33,4 @@ git push origin main
 git tag -a v1.1.0 -m "Lagt til kontaktperson epost"
 git push origin v1.1.0
 ```
-5. Gå til repo i GitHub og velg Releases. Lag ny release basert på tag opprettet i pkt 4 
+5. Gå til repo i GitHub og velg Releases. Velg Draft a new release, velg tag og publish
