@@ -20,7 +20,10 @@ module "resource_tags" {
 ##
 Hvordan oppdatere modul
 
-1. Klon koden. 'git clone https://github.com/SPHF-Integration/terraform-azure-resource-tags.git'
+1. Klon koden
+```
+git clone https://github.com/SPHF-Integration/terraform-azure-resource-tags.git
+ ```
 2. Gjør endringer
 3. Add, commit og push endringene
 ```
