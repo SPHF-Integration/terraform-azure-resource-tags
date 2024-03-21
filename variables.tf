@@ -15,5 +15,10 @@ variable "avtalenr_tag" {
 
 variable "contactperson_tag" {
   type        = string
-  description = "Kontaktperson"
+  description = "Kontaktperson navn"
+}
+
+variable "contactemail_tag" {
+  type        = string
+  description = "Kontaktperson epostadresse"
 }

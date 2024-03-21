@@ -5,5 +5,6 @@ output "tags" {
     Criticality   = var.criticality_tag
     AvtaleNr      = var.avtalenr_tag
     ContactPerson = var.contactperson_tag
+    ContactEmail  = var.contactemail_tag
   }
 }
